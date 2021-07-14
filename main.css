@@ -1,1 +1,7 @@
-@import 
+.aside-left__care-instructions {
+    flex: wrap;
+}
+
+.aside-left__adopt {
+    flex: wrap;
+}
