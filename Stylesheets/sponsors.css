@@ -1,0 +1,10 @@
+.sponsors-merch-donate{
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    width: 30em;
+    background: -moz-linear-gradient(45deg, #CE5937 0%, #1C6EA4 29%, #4CC52B 100%);
+    background: -webkit-linear-gradient(45deg, #CE5937 0%, #1C6EA4 29%, #4CC52B 100%);
+    background: linear-gradient(45deg, #CE5937 0%, #1C6EA4 29%, #4CC52B 100%);
+
+}
