@@ -1,4 +1,7 @@
 .sponsors-merch-donate{
+    color: #000000;
+background: #FFFFFF;
+text-shadow: 2px 2px 0 #bcbcbc, 4px 4px 0 #9c9c9c;
     display: flex;
     flex-flow: column wrap;
     align-content: center;
@@ -7,4 +10,17 @@
     background: -webkit-linear-gradient(45deg, #CE5937 0%, #1C6EA4 29%, #4CC52B 100%);
     background: linear-gradient(45deg, #CE5937 0%, #1C6EA4 29%, #4CC52B 100%);
 
+}
+
+.sponsor__list{
+    text-shadow: gray;
+    border: 5px solid goldenrod;
+    background-image: url("chickenEgg.jpg");
+    color: blue;
+}
+
+.sponsor__link{
+    color: #FFFFFF;
+    background: #005DFF;
+    text-shadow: -5px 5px 0px #00e6e6, -10px 10px 0px #01cccc, -15px 15px 0px #00bdbd; 
 }
