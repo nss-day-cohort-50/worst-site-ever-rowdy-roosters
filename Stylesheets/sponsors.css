@@ -3,10 +3,10 @@
     background: #FFFFFF;
     text-shadow: 2px 2px 0 #bcbcbc, 4px 4px 0 #9c9c9c;
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: column wrap;
     align-content: space-evenly;
     justify-content: center;
-    width: 80em;
+    width: 30em;
     background: -moz-linear-gradient(45deg, #CE5937 0%, #1C6EA4 29%, #4CC52B 100%);
     background: -webkit-linear-gradient(45deg, #CE5937 0%, #1C6EA4 29%, #4CC52B 100%);
     background: linear-gradient(45deg, #CE5937 0%, #1C6EA4 29%, #4CC52B 100%);
