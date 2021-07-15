@@ -1,6 +1,24 @@
 .aside-left__missionStatement {
     display: flex;
+    flex-direction: column;
     border: 15px ridge orchid;
+    border-radius: 10px;
     font-style: italic;
+    background-image: url("https://imgur.com/l024ePq.png");
+    background-size: cover;
+}
 
+.aside-left__missionStatement h3 {
+    /* border: 2px solid red; */
+    margin: 10px;
+    width: 350px;
+    color: blue;
+    text-decoration: underline;
+}
+
+.aside-left__missionStatement p {
+    /* border: 2px solid green; */
+    padding: 10px;
+    color: rgb(255, 5, 5);   
+    font-weight: bold; 
 }
