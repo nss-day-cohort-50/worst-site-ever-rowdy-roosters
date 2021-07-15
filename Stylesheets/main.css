@@ -2,3 +2,7 @@
 @import "./mission.css";
 @import "./sponsors.css";
 @import "./legalaid.css";
+
+body{
+    background-color:rgb(170, 106, 22);
+}
