@@ -1,0 +1,11 @@
+.training-and-benefits__text {
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    width: 30em;
+    border-style: double;
+    border-color: rgb(223, 10, 10);
+    background-color: rgb(181, 113, 25);
+    align-items: center;
+
+}
