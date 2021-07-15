@@ -1,13 +1,10 @@
-body {
-    background-color: rgb(109, 99, 8);
-  }
-  
-  h1 {
-    color: rgb(5, 219, 101);
-    text-align: left;
-  }
-  
-  p {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 18px;
-  }
+  .aside-left__care-instructions{
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    width: 30em;
+    border-style: double;
+    border-color: rgb(223, 10, 10);
+    background-color:red;
+
+}
